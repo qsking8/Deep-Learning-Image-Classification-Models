@@ -15,7 +15,7 @@
 - 注意，Classification.ipynb中含有解压数据集的代码段，无需将flower.zip解压
 ## 4. 实验结果
 |train| Loss	|training accuracy|	val_accurate|
-| :-----| ----: | :----: |:----: |
+| :-----: | :----: | :----: |:----: |
 |ResNet-18	|4.3E-05|	1	|0.744505|
 |ResNet-34	|2.4E-05	|1|	0.695055|
 |ResNet-50	|1.8E-4	|1	|0.71978|
@@ -25,6 +25,9 @@
 |Swin-tniy	|0.003458	|0.986388|	0.733516|
 |Swin-small	|0.03574	|0.975499|	0.722527|
 |Swin-base	|0.344897	|0.686328|	0.664835|
-
+## 5. 训练参数下载
+- 本实验对花朵数据集进行epoch为100的训练。
+- 训练后的9个模型最优参数下载地址https://drive.google.com/open?id=1-pvCnkMkKT1wesJql0rz8ULo6CY5HyvS&usp=drive_copy
+- 包括9个模型的best.pth和last.pkl
 
 
