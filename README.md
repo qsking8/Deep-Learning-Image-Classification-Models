@@ -1,4 +1,5 @@
 # Deep-Learning-Image-Classification-Models
+My code and models with readme.md are publicly available at https://github.com/qsking8/Deep-Learning-Image-Classification-Models
 ## 1. 实验环境
 - 在Colab平台上利用Tesla V4 GPU进行在线训练。
 - 使用Colab提供的默认环境即可运行该代码。
